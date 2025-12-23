@@ -23,7 +23,7 @@ Aşağıdaki teknolojilerle projelerimi hayata geçiriyorum:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,mysql,mongodb,redis,maven,gradle,git,docker,linux,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,mysql,mongodb,redis,maven,gradle,git,docker,linux,idea,code&theme=dark" />
   </a>
 </p>
 
