@@ -1,92 +1,83 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=YusufChain&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=250&section=header&text=YusufChain&fontSize=90&animation=fadeIn&fontAlignY=45" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Java%20Developer-007ACC?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expertise-Minecraft%20Plugins-00D2FF?style=flat-square&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1E90FF?style=flat-square" />
-</p>
-
----
-
-### ⚡ Hakkımda
-4 yılı aşkın süredir Minecraft ekosistemi içinde, yüksek performanslı pluginler ve karmaşık oyun mekanikleri geliştiriyorum. Sadece kod yazmıyor, aynı zamanda oyuncu deneyimini optimize eden ölçeklenebilir sistemler tasarlıyorum.
-
-- ☕ **Java Tutkunu:** Backend mantığı ve performans odaklı geliştirme.
-- 🧱 **Minecraft Mimarı:** Spigot/Paper API üzerinde uzmanlaşmış tecrübe.
-- 🤖 **Bot Geliştiricisi:** Discord üzerinde otomasyon ve gelişmiş sistemler.
-- 🚀 **Vizyon:** Temiz kod, sürdürülebilir altyapı ve maksimum performans.
-
----
-
-### 🛠️ Skills & Tech Stack (Mavi Seviye)
-
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=java,python,js,html,css" /><br>
-      <b>Programming Languages</b>
-    </td>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,postgres" /><br>
-      <b>Databases & Storage</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=maven,gradle,git,github,vscode" /><br>
-      <b>Tools & DevOps</b>
-    </td>
-    <td align="center" width="300">
-      <img src="https://skillicons.dev/icons?i=discordjs,nodejs,linux,docker" /><br>
-      <b>Bot & Environments</b>
-    </td>
-  </tr>
-</table>
-
-#### 🔹 Minecraft Geliştirme Detayları
-- **API:** Spigot, Paper, Bukkit, BungeeCord, Velocity
-- **NMS:** Version-independent packet handling (PacketEvents, ProtocolLib)
-- **Database Logic:** SQL & NoSQL integration for cross-server data syncing
-- **UI:** Advanced GUI systems & Custom Resource Pack integrations
-
----
-
-### 📊 İstatistikler & Verimlilik
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufChain&show_icons=true&theme=tokyonight&count_private=true&title_color=00d2ff&text_color=fff&icon_color=00d2ff" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufChain&theme=tokyonight&fire=00d2ff&ring=00d2ff" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufChain&layout=compact&theme=tokyonight&langs_count=8&title_color=00d2ff" />
-</p>
-
----
-
-### 📂 Öne Çıkan Projeler
-> [!TIP]
-> **Custom Game Mechanics Engine**
-> Java ile yazılmış, Minecraft sunucuları için yüksek performanslı özel yetenek ve event sistemi.
-
-> [!IMPORTANT]
-> **Advanced Discord Moderator**
-> Binlerce kullanıcılı sunucular için tasarlanmış, Redis tabanlı hızlı moderasyon botu.
-
----
-
-### 🔗 Benimle İletişime Geç
-<p align="left">
-  <a href="https://discord.com/users/SENIN_DISCORD_ID_BURAYA">
-    <img src="https://img.shields.io/badge/Discord-Hemen%20Ulaş-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://github.com/YusufChain">
-    <img src="https://img.shields.io/badge/GitHub-Takip%20Et-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-0077b6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Focus-High%20Performance%20Code-48cae4?style=for-the-badge" />
 </p>
 
 ---
+
+## 🚀 Profesyonel Özet
+4 yılı aşkın süredir **Minecraft** ekosisteminde, yüksek trafikli sunucular için optimize edilmiş pluginler geliştiriyorum. Java'nın derinliklerine inerek, paket tabanlı (packet-based) sistemler ve ölçeklenebilir backend çözümleri üzerinde uzmanlaştım.
+
+---
+
+## 🛠️ Teknik Yetenek Kapasitesi
+
+### 🔹 Yazılım & Geliştirme
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Diller** | `Java` `Python` `JavaScript` `SQL` `HTML/CSS` |
+| **Minecraft API** | `Paper` `Spigot` `BungeeCord` `Velocity` `NMS` `ProtocolLib` |
+| **Veritabanı** | `MySQL` `MongoDB` `Redis` `SQLite` |
+| **Araçlar** | `Git` `Maven` `Gradle` `Docker` `IntelliJ IDEA` |
+
+### 🧩 Uzmanlık Alanları
+* **Custom Mechanics:** Sıfırdan oyun modları ve karmaşık yetenek sistemleri.
+* **Optimization:** Sunucu lag problemlerini giderme ve asenkron veri işleme.
+* **Discord Integration:** Minecraft-Discord arası senkronize bot sistemleri.
+* **Packet Manipulation:** Client-side olmayan, tamamen paket tabanlı görsel efektler.
+
+---
+
+## 📊 Yazılım Verimliliği & İstatistikler
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Designed%20with-💙-00d2ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufChain&show_icons=true&theme=oceanicnext&title_color=00b4d8&icon_color=00b4d8&text_color=e0f2f1&bg_color=0f172a" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufChain&theme=oceanicnext&fire=00b4d8&ring=00b4d8&sideNums=e0f2f1&stroke=00b4d8&background=0f172a" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufChain&layout=compact&theme=oceanicnext&title_color=00b4d8&text_color=e0f2f1&bg_color=0f172a&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 📂 Öne Çıkan Çalışmalar
+
+> [!NOTE]
+> ### 🏆 Advanced Server Core
+> Minecraft sunucuları için tek bir jar üzerinden yönetilen, yüksek performanslı "All-in-One" sistem altyapısı.
+
+> [!TIP]
+> ### 🤖 Discord Multi-Tool
+> Slash commands ve asenkron veritabanı yapısıyla çalışan, gelişmiş yetkilendirme ve loglama botu.
+
+---
+
+## 🌐 Bağlantılar & İletişim
+
+<div align="center">
+  
+  <a href="https://discord.com/users/YOUR_ID_HERE">
+    <img src="https://img.shields.io/badge/Discord-Mavi%20Hat-0077b6?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YusufChain">
+    <img src="https://img.shields.io/badge/GitHub-Portfolyo-00b4d8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YusufChain/YusufChain/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
