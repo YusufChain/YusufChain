@@ -1,4 +1,4 @@
-# 🌊 YusufChain | Java & Minecraft Developer
+# 🌊 YusufChain | Full Stack, Java Developer
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java%20Expert-0077b6?style=for-the-badge&logo=java&logoColor=white" />
@@ -23,7 +23,7 @@ Aşağıdaki teknolojilerle projelerimi hayata geçiriyorum:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,mysql,mongodb,redis,maven,gradle,git,docker,linux,idea,code&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,mysql,mongodb,nodejs,ts,redis,discordjs,maven,gradle,git,arch,docker,linux,idea&theme=dark" />
   </a>
 </p>
 
@@ -31,25 +31,21 @@ Aşağıdaki teknolojilerle projelerimi hayata geçiriyorum:
 
 ### 📊 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufChain&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufChain&theme=dark" />
 </p>
 
 ---
 
 ### 📂 Uzmanlık Alanlarım
-- **Sıfırdan Oyun Modları:** Skyblock, Survival veya tamamen özgün minigame çekirdekleri.
-- **Veri Yönetimi:** Cross-server (sunucular arası) veri senkronizasyonu (Redis/MySQL).
-- **Discord-MC Köprüsü:** Oyun içi verilerin anlık olarak Discord'a aktarılması ve kontrolü.
+- **Oyun Modları:** Towny, Survival veya tamamen özgün minigame çekirdekleri.
+- **Pluginler:** Oyun modlarında kullanabileceğiniz özel eklentilerde iyiyimdir.
+- **Discord Bot:** Discord üzerinden kullanılan discord botlarında. 
 
 ---
 
 ### 🔗 İletişim & Sosyal Medya
 <p align="left">
-  <a href="https://discord.com/users/SENIN_ID_BURAYA">
+  <a href="https://discord.com/users/1422866667050110978">
     <img src="https://img.shields.io/badge/Discord-Bana%20Ulaş-0077b6?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/YusufChain">
@@ -58,6 +54,3 @@ Aşağıdaki teknolojilerle projelerimi hayata geçiriyorum:
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YusufChain/YusufChain/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
