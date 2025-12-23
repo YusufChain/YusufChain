@@ -29,27 +29,13 @@ Aşağıdaki teknolojilerle projelerimi hayata geçiriyorum:
 
 ---
 
-### 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufChain&theme=dark" />
-</p>
-
----
-
-### 📂 Uzmanlık Alanlarım
-- **Oyun Modları:** Towny, Survival veya tamamen özgün minigame çekirdekleri.
-- **Pluginler:** Oyun modlarında kullanabileceğiniz özel eklentilerde iyiyimdir.
-- **Discord Bot:** Discord üzerinden kullanılan discord botlarında. 
-
----
-
 ### 🔗 İletişim & Sosyal Medya
 <p align="left">
   <a href="https://discord.com/users/1422866667050110978">
     <img src="https://img.shields.io/badge/Discord-Bana%20Ulaş-0077b6?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/YusufChain">
-    <img src="https://img.shields.io/badge/GitHub-Projelerim-48cae4?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.instagram.com/yusufchainn/">
+    <img src="https://img.shields.io/badge/İnstagram-Adresim-48cae4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
