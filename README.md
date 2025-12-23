@@ -8,18 +8,18 @@
 
 ---
 
-### 👨‍💻 Hakkımda
-4 yılı aşkın süredir **Minecraft** dünyasında kod koşturuyorum. Java'nın gücünü kullanarak sunucu taraflı yüksek performanslı sistemler ve oyuncu deneyimini zirveye taşıyan özel mekanikler geliştiriyorum.
+### 👨‍💻 About Me
+I have been coding in the **Minecraft** ecosystem for over 4 years. By leveraging the power of Java, I develop high-performance server-side systems and custom mechanics that elevate the player experience.
 
-- ☕ **Java Backend:** Nesne yönelimli programlama ve temiz kod prensipleri.
-- 🧱 **Minecraft:** Spigot, Paper ve Velocity API üzerinde uzmanlık.
-- ⚡ **Performans:** NMS ve Packet tabanlı, sunucuyu yormayan optimizasyonlar.
-- 🤖 **Otomasyon:** Gelişmiş Discord botları ve API entegrasyonları.
+- ☕ **Java Backend:** Object-oriented programming and clean code principles.
+- 🧱 **Minecraft:** Expertise in Spigot, Paper, and Velocity APIs.
+- ⚡ **Performance:** NMS and Packet-based optimizations with minimal server overhead.
+- 🤖 **Automation:** Advanced Discord bots and seamless API integrations.
 
 ---
 
-### 🛠️ Teknolojik Donanım
-Aşağıdaki teknolojilerle projelerimi hayata geçiriyorum:
+### 🛠️ Tech Stack
+I bring projects to life using the following technologies:
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -29,13 +29,13 @@ Aşağıdaki teknolojilerle projelerimi hayata geçiriyorum:
 
 ---
 
-### 🔗 İletişim & Sosyal Medya
+### 🔗 Connect with Me
 <p align="left">
   <a href="https://discord.com/users/1422866667050110978">
-    <img src="https://img.shields.io/badge/Discord-Bana%20Ulaş-0077b6?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-Contact%20Me-0077b6?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/yusufchainn/">
-    <img src="https://img.shields.io/badge/İnstagram-Adresim-48cae4?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-48cae4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
