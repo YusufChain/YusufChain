@@ -31,12 +31,12 @@ Aşağıdaki teknolojilerle projelerimi hayata geçiriyorum:
 
 ### 📊 GitHub İstatistikleri
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufChain&show_icons=true&theme=tokyonight&title_color=00d2ff&icon_color=00d2ff&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufChain&theme=tokyonight&fire=00d2ff&ring=00d2ff&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YusufChain&show_icons=true&theme=tokyonight&count_private=true&title_color=00d2ff&text_color=fff&icon_color=00d2ff" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufChain&theme=tokyonight&fire=00d2ff&ring=00d2ff" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufChain&layout=compact&theme=tokyonight&title_color=00d2ff&border_radius=10" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufChain&layout=compact&theme=tokyonight&langs_count=8&title_color=00d2ff" />
 </p>
 
 ---
